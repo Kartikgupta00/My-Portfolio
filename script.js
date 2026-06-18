@@ -2,7 +2,7 @@ document.addEventListener("DOMContentLoaded", () => {
     
     // 1. Typing Effect in Hero Section
     const typingText = document.getElementById('typing-text');
-    const phrase = "Full Stack Developer | Crafting Scalable Web Web Applications";
+    const phrase = "Full Stack Developer | Crafting Scalable Web Applications";
     let charIndex = 0;
 
     function typeWriter() {
